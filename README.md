@@ -122,3 +122,5 @@ AI-Augmented-Retail-Intelligence/
 
 ## 📜 License
 MIT License. Built for portfolio demonstration.
+live link 
+https://ai-augmented-retail-business-intelligence.streamlit.app
